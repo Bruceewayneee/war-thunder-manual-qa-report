@@ -33,8 +33,7 @@ If you represent Gaijin Entertainment and would like this content removed or dis
 
 ## 📬 Contact
 
-**Süleyman Yılmaz**  
-QA Enthusiast & Tester  
+**Süleyman Yılmaz**   
 GitHub: [https://github.com/Bruceewayneee](https://github.com/Bruceewayneee)  
 
 ---
